@@ -7,6 +7,4 @@ CLI Reverse Shell Generator
 * Optional: Netcat
 
 ## Run
-`python3
-python3 genrevshell.py
-`
+`python3 genrevshell.py`
